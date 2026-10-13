@@ -470,11 +470,11 @@
                 <div class="feature-card" onclick="abrirSelectorFamilia(0)"><span class="feature-name">Papa chorreada 🧠</span><span id="tag-0" class="feature-tag tag-available">Disponible</span></div>
                 <div class="feature-card" onclick="abrirSelectorFamilia(1)"><span class="feature-name">Gelatina c/ crema y wafer ☠️</span><span id="tag-1" class="feature-tag tag-available">Disponible</span></div>
                 <div class="feature-card" onclick="abrirSelectorFamilia(2)"><span class="feature-name">Chorizo coctelero 🧪</span><span id="tag-2" class="feature-tag tag-available">Disponible</span></div>
-                <div class="feature-card" onclick="abrirSelectorFamilia(3)"><span class="feature-name">Galletas 💀</span><span id="tag-3" class="feature-tag tag-assigned">Alejo & Juan</span></div>
+                <div class="feature-card" onclick="abrirSelectorFamilia(3)"><span class="feature-name">Galletas 👻</span><span id="tag-3" class="feature-tag tag-assigned">Alejo & Juan</span></div>
                 <div class="feature-card" onclick="abrirSelectorFamilia(4)"><span class="feature-name">Conos de helado 🩸</span><span id="tag-4" class="feature-tag tag-available">Disponible</span></div>
                 <div class="feature-card" onclick="abrirSelectorFamilia(5)"><span class="feature-name">Empanaditas 🦇</span><span id="tag-5" class="feature-tag tag-available">Disponible</span></div>
                 <div class="feature-card" onclick="abrirSelectorFamilia(6)"><span class="feature-name">Fruta picada 👁️</span><span id="tag-6" class="feature-tag tag-available">Disponible</span></div>
-                <div class="feature-card" onclick="abrirSelectorFamilia(7)"><span class="feature-name">Toppings☠️</span><span id="tag-7" class="feature-tag tag-available">Disponible</span></div>
+                <div class="feature-card" onclick="abrirSelectorFamilia(7)"><span class="feature-name">Toppings🧛‍♂️</span><span id="tag-7" class="feature-tag tag-available">Disponible</span></div>
             </div>
         </div>
 
@@ -482,11 +482,11 @@
         <div id="panel-familias" class="tech-section">
             <div class="section-title">🦇 Familias Convocadas</div>
             <div class="families-container">
-                <div class="family-pill">🦇 Freddy y Leidy</div>
+                <div class="family-pill">👹 Freddy y Leidy</div>
                 <div class="family-pill">🕷️ Giovanny y Yolima</div>
-                <div class="family-pill">👻 Nelson y Elizabeth</div>
+                <div class="family-pill">💀 Nelson y Elizabeth</div>
                 <div class="family-pill">🧙‍♂️ Wilinton y Marlene</div>
-                <div class="family-pill">🧛 David y Julieth</div>
+                <div class="family-pill">🧟‍♂️ David y Julieth</div>
                 <div class="family-pill">🎃 Alejandro - Santi - Juan</div>
             </div>
         </div>
