@@ -477,6 +477,7 @@
                 <div class="feature-card" onclick="abrirSelectorFamilia(6)"><span class="feature-name">Fruta picada 👁️</span><span id="tag-6" class="feature-tag tag-available">Disponible</span></div>
                 <div class="feature-card" onclick="abrirSelectorFamilia(7)"><span class="feature-name">Toppings🧛‍♂️</span><span id="tag-7" class="feature-tag tag-available">Disponible</span></div>
             </div>
+            <button class="hud-btn" onclick="reiniciarMenu()" style="border-color: #ff0000; color: #ff0000; margin-top: 30px;">⚰️ Limpiar Selecciones</button>
         </div>
 
         <!-- PANEL 3: FAMILIAS -->
@@ -695,6 +696,10 @@
             osc.stop(ctx.currentTime + 0.7);
         } catch(e) {}
     }
+    function reiniciarMenu() {
+    if (confirm("¿Seguro que quieres borrar todas las selecciones guardadas?")) {
+        localStorage.clear();
+        location.reload(); // Recarga la página limpia
 </script>
 
 </body>
